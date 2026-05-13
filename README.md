@@ -50,12 +50,15 @@ http://127.0.0.1:8000/docs
 
 API Endpoints
 
-Method                         Endpoint	                Description
-POST	                         /blogs                 	Create blog
-GET	                           /blogs	                  Get all blogs
-GET	                           /blogs/{id}	            Get single blog
-PUT	                           /blogs/{id}	            Update blog
-DELETE                         /blogs/{id}              Delete blog
+Method                                          Endpoint	                                                                 Description
+POST	                                           /blogs                                                                   	Create blog
+GET	                                            /blogs	                                                                   Get all blogs
+GET	                                            /blogs/{id}	                                                              Get single blog
+PUT	                                            /blogs/{id}	                                                              Update blog
+DELETE                                          /blogs/{id}                                                               Delete blog
+
+
+
 
 
 Author
